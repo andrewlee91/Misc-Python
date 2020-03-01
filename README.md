@@ -14,3 +14,5 @@ multiplicationtable.py - Print a multiplication table of the entered size
 pythagoreantriples.py - Determine if a triangle is a Pythagorean triple or not
 
 rockpaperscissors.py - Rock, paper, scissors game
+
+rename_to_png.py - Rename all files in a directory with a timestamp and .png file extension
